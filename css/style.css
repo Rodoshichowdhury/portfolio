@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif
+}
+#top-banner{
+    display: flex;
+    background-image:url(image/pngtree-minimalist-abstract-background-portfolio-picture-image_1447430.jpg);
+}
+.first-header{
+    width: 50%;
+    margin: 50px;
+    padding: 0px 50px 0px 50px;
+}
+.first-header h1{
+    font-size: 50px;
+}
+.first-header span{
+    color: orange;
+}
+.first-header a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 7px 15px;
+    border-radius: 6px;
+}
+.second-header{
+    width: 50%;
+}
+.second-header img{
+    width: 70%;
+    padding: 0px 50px 0px 50px;
+}
