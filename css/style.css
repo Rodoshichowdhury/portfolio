@@ -3,7 +3,12 @@ body{
 }
 #top-banner{
     display: flex;
-    background-image:url(image/pngtree-minimalist-abstract-background-portfolio-picture-image_1447430.jpg);
+    
+}
+#top-banner{
+    background-image:url(../Image/image-5.jfif);
+    
+    
 }
 .first-header{
     width: 50%;
@@ -14,11 +19,11 @@ body{
     font-size: 50px;
 }
 .first-header span{
-    color: orange;
+    color: rgb(87, 95, 179);
 }
 .first-header a{
     text-decoration: none;
-    background-color: orange;
+    background-color: rgb(241, 245, 239);
     padding: 7px 15px;
     border-radius: 6px;
 }
@@ -26,6 +31,6 @@ body{
     width: 50%;
 }
 .second-header img{
-    width: 70%;
-    padding: 0px 50px 0px 50px;
+    width: 80%;
+    padding: 100px 50px 0px 50px;
 }
